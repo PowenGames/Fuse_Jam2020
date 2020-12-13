@@ -1,345 +1,375 @@
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/colour.uasset" 0
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/colour_light.uasset" 1
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 2
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 3
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 4
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 5
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 6
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 7
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 8
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 9
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 10
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 11
-"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 12
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 13
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 14
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 15
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/brick_01.uasset" 16
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_tileable_brick.uasset" 17
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 18
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial.uasset" 19
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/sheet_wood01.uasset" 20
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_woodsheet01.uasset" 21
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_half_01.uasset" 22
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/MASTER_LUT_LimitedColours.uasset" 23
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Rain_Ambience.uasset" 24
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_AudioCue1.uasset" 25
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_AudioCue2.uasset" 26
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_AudioCue3.uasset" 27
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_CandleImpact1.uasset" 28
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_CandleImpact2.uasset" 29
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_CandleImpact3.uasset" 30
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_20.uasset" 31
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_21.uasset" 32
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_22.uasset" 33
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_23.uasset" 34
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_24.uasset" 35
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_25.uasset" 36
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_JumpLand_Medium_1.uasset" 37
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_JumpLand_Medium_2.uasset" 38
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_JumpLand_Medium_3.uasset" 39
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Ghost_1.uasset" 40
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Ghost_2.uasset" 41
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Ghost_3.uasset" 42
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpGrunt1.uasset" 43
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpGrunt2.uasset" 44
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpGrunt3.uasset" 45
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpLand1.uasset" 46
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpLand2.uasset" 47
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpLand3.uasset" 48
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Soundtrack_noRain.uasset" 49
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Soundtrack_with_Rain.uasset" 50
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Drones/FuseJam_TextureDrone.uasset" 51
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Candle/BP_Candle_Pointlight.uasset" 52
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/sheet01_clr.uasset" 53
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/candle.uasset" 54
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candle01.uasset" 55
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 56
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/candle_flame.uasset" 57
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/candle_flame_mat.uasset" 58
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/flame_mesh.uasset" 59
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candle01.uasset" 60
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candle02.uasset" 61
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candle02.uasset" 62
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candle03.uasset" 63
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candle03.uasset" 64
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 65
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Directors/BP_AI_CandleDirector.uasset" 66
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/ENUMs/ENUM_EnemyStates.uasset" 67
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BB_Enemy.uasset" 68
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTD_AreCandlesAvailable.uasset" 69
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTD_CandleReached.uasset" 70
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_DestroySelf.uasset" 71
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_FindAvailableCandle.uasset" 72
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_PutOutCandle.uasset" 73
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BT_Enemy.uasset" 74
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BP_AC_EnemyController.uasset" 75
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Parent/BP_Enemy_Parent.uasset" 76
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_CandleImpact.uasset" 77
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Candle_Lighting.uasset" 78
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Candle_Loop.uasset" 79
-"F:/Unreal Projects/Personal/FuseJam2020/Content/ParticleSystems/PS_CandleFlame.uasset" 80
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Candle/BP_Candle.uasset" 81
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTS_Tick.uasset" 82
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTS_EnemyStatus.uasset" 83
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 84
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim_Skeleton.uasset" 85
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/idle_anim.uasset" 86
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_Footsteps.uasset" 87
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim_Anim.uasset" 88
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/BlendSpace_Walk.uasset" 89
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/AnimBP/AnimBP_Player.uasset" 90
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/player_vision_mat.uasset" 91
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/inverted_sphere.uasset" 92
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_DarknessSphere.uasset" 93
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Drones/FuseJam_Rumble.uasset" 94
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Drones/CUE_SanityLowing.uasset" 95
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Insomnia_Soundtrack_Loop.uasset" 96
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Directors/BP_Music_Director.uasset" 97
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Directors/BP_Game_Director.uasset" 98
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/lambert1.uasset" 99
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim_PhysicsAsset.uasset" 100
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim.uasset" 101
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_Jump.uasset" 102
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_Land.uasset" 103
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/BP_Text.uasset" 104
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 105
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/WBP_SanityBar.uasset" 106
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/WBP_HUD.uasset" 107
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/PLayer/BP_Player.uasset" 108
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/PLayer/BP_PlayerController.uasset" 109
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/PLayer/BP_GameMode.uasset" 110
-"F:/Unreal Projects/Personal/FuseJam2020/Content/HDRis/cannon_1k.uasset" 111
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour.uasset" 112
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour_Inst1.uasset" 113
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour_Inst2.uasset" 114
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 115
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Meshes/Placeholder/SM_Placeholder_Box.uasset" 116
-"F:/Unreal Projects/Personal/FuseJam2020/Content/ParticleSystems/PS_CandleFlame_OWEN.uasset" 117
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 118
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 119
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 120
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 121
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 122
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 123
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 124
-"../../../Engine/Content/BasicShapes/Cone.uasset" 125
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 126
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 127
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 128
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 129
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 130
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 131
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 132
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 133
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 134
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 135
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 136
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 137
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 138
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 139
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 140
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 141
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 142
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 143
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 144
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 145
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 146
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 147
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 148
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 149
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 150
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 151
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 152
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 153
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 154
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 155
-"../../../Engine/Content/EditorResources/S_Note.uasset" 156
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 157
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 158
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 159
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 160
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 161
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 162
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 163
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 164
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 165
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 166
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 167
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 168
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 169
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 170
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 171
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 172
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 173
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 174
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 175
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 176
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 177
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 178
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 179
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 180
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 181
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 182
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 183
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 184
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 185
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 186
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 187
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 188
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 189
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 190
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 191
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 192
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 193
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 194
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 195
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 196
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 197
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 198
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 199
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 200
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 201
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 202
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 203
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 204
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 205
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 206
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 207
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 208
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 209
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 210
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 211
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 212
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 213
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 214
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 215
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 216
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 217
-"../../../Engine/Content/EngineResources/Black.uasset" 218
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 219
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 220
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 221
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 222
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 223
-"../../../Engine/Content/EngineSounds/Master.uasset" 224
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 225
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 226
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 227
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 228
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 229
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 230
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 231
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 232
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 233
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 234
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 235
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 236
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 237
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 238
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 239
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 240
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 241
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 242
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 243
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 244
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 245
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 246
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 247
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 248
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 249
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 250
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 251
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 252
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 253
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 254
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 255
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 256
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 257
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 258
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 259
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 260
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 261
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 262
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 263
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 264
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 265
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 266
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 267
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 268
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 269
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 270
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 271
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 272
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 273
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 274
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 275
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 276
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 277
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 278
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 279
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 280
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 281
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 282
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 283
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 284
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 285
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 286
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 287
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 288
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Default_BuiltData.uasset" 289
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 290
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Default.umap" 291
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 292
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Gin_Testing.umap" 293
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/sheet01.uasset" 294
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candleholder01.uasset" 295
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candleholder01.uasset" 296
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Version1_BuiltData.uasset" 297
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/floor_01.uasset" 298
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_tileable_floor.uasset" 299
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/wall_paper01.uasset" 300
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_tileable_wallpaper.uasset" 301
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_window.uasset" 302
-"../../../Engine/Content/BasicShapes/Cube.uasset" 303
-"../../../Engine/Content/BasicShapes/Plane.uasset" 304
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/floor_01.uasset" 305
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/ghosts_clr.uasset" 306
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/ghosts_sheet.uasset" 307
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_01.uasset" 308
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_02.uasset" 309
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_03.uasset" 310
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_04.uasset" 311
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/plank01.uasset" 312
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/railing_01.uasset" 313
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/railing_end_01.uasset" 314
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/sheet_wood02.uasset" 315
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_woodsheet02.uasset" 316
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/small_wall_01.uasset" 317
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/small_wall_02.uasset" 318
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/stairs_01.uasset" 319
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/Stairs_02.uasset" 320
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/table_01.uasset" 321
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_01.uasset" 322
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_02.uasset" 323
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_03.uasset" 324
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_pillar_01.uasset" 325
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Version1.umap" 326
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/art_testcam.uasset" 327
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Will_Testing_BuiltData.uasset" 328
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/floor_01_half.uasset" 329
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Will_Testing.umap" 330
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/BP_Enemy_Child.uasset" 331
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_AI_Testing_BuiltData.uasset" 332
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour_Inst.uasset" 333
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_AI_Testing.umap" 334
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_Gameplay.umap" 335
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_Sanity_Testing.umap" 336
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/SubLevels/Map_Sub_Directors.umap" 337
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/levels/Level_lighting_BuiltData.uasset" 338
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/A_LUT_Dark4.uasset" 339
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/A_LUT_U1_Emulation_SA5.uasset" 340
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/MASTER_LUT_01.uasset" 341
-"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/levels/Level_lighting.umap" 342
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 343
-"../../../Engine/Content/Maps/Entry.umap" 344
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/SubLevels/Map_Sub_Directors_BuiltData.uasset" 0
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/colour.uasset" 1
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/colour_light.uasset" 2
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 3
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 4
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 6
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/candle_flame.uasset" 7
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/candle_flame_mat.uasset" 8
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/flame_mesh_player.uasset" 9
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/ghosts_clr.uasset" 10
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/ghosts_sheet.uasset" 11
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/ghost_01.uasset" 12
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/ghosts_sheet_01.uasset" 13
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_01.uasset" 14
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/ghost_02.uasset" 15
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/ghosts_sheet_02.uasset" 16
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_02.uasset" 17
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/ghost_03.uasset" 18
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/ghosts_sheet_03.uasset" 19
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_03.uasset" 20
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/ghost_04.uasset" 21
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/ghosts_sheet_04.uasset" 22
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/ghost_04.uasset" 23
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/MASTER_LUT_LimitedColours.uasset" 24
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_CandleImpact1.uasset" 25
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_CandleImpact2.uasset" 26
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_CandleImpact3.uasset" 27
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_20.uasset" 28
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_21.uasset" 29
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_22.uasset" 30
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_23.uasset" 31
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_24.uasset" 32
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_25.uasset" 33
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_JumpLand_Medium_1.uasset" 34
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_JumpLand_Medium_2.uasset" 35
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Footstep_Wood_Boots_JumpLand_Medium_3.uasset" 36
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Ghost_1.uasset" 37
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Ghost_2.uasset" 38
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Ghost_3.uasset" 39
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpGrunt1.uasset" 40
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpGrunt2.uasset" 41
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpGrunt3.uasset" 42
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpLand1.uasset" 43
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpLand2.uasset" 44
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_JumpLand3.uasset" 45
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Soundtrack_noRain.uasset" 46
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Soundtrack_with_Rain.uasset" 47
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Candle/BP_Candle_Pointlight.uasset" 48
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/sheet01_clr.uasset" 49
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/candle.uasset" 50
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candle01.uasset" 51
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/flame_mesh.uasset" 52
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candle01.uasset" 53
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candle02.uasset" 54
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candle02.uasset" 55
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candle03.uasset" 56
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candle03.uasset" 57
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 58
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Directors/BP_AI_CandleDirector.uasset" 59
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 60
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim_Skeleton.uasset" 61
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/idle_anim.uasset" 62
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_Footsteps.uasset" 63
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim_Anim.uasset" 64
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/BlendSpace_Walk.uasset" 65
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/AnimBP/AnimBP_Player.uasset" 66
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/player_vision_mat.uasset" 67
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/inverted_sphere.uasset" 68
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_DarknessSphere.uasset" 69
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Drones/FuseJam_Rumble.uasset" 70
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Drones/CUE_SanityLowing.uasset" 71
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Insomnia_Soundtrack_Loop.uasset" 72
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Directors/BP_Music_Director.uasset" 73
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/A_LUT_Dark4.uasset" 74
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/Fonts/valium.uasset" 75
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/Fonts/valium_Font.uasset" 76
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/BP_Text.uasset" 77
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 78
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/WBP_SanityBar.uasset" 79
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_ButtonHovered.uasset" 80
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_ButtonPressed.uasset" 81
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/BP_Button.uasset" 82
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/WBP_Score.uasset" 83
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/WBP_HUD.uasset" 84
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Directors/BP_Game_Director.uasset" 85
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/lambert1.uasset" 86
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim_PhysicsAsset.uasset" 87
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Animation/walk_anim.uasset" 88
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_Jump.uasset" 89
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_Land.uasset" 90
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/PLayer/BP_Player.uasset" 91
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/ENUMs/ENUM_EnemyStates.uasset" 92
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BB_Enemy.uasset" 93
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTD_AreCandlesAvailable.uasset" 94
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTD_CandleReached.uasset" 95
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_Ghosts.uasset" 96
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/BP_Enemy_Child.uasset" 97
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_DestroySelf.uasset" 98
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_FindAvailableCandle.uasset" 99
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_PutOutCandle.uasset" 100
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_RemovePlayerSanity.uasset" 101
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTT_TargetPlayer.uasset" 102
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BT_Enemy.uasset" 103
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BP_AC_EnemyController.uasset" 104
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Parent/BP_Enemy_Parent.uasset" 105
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_CandleImpact.uasset" 106
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Candle_Lighting.uasset" 107
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_Candle_Loop.uasset" 108
+"F:/Unreal Projects/Personal/FuseJam2020/Content/ParticleSystems/PS_CandleFlame.uasset" 109
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Candle/BP_Candle.uasset" 110
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTS_Tick.uasset" 111
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Enemy/Children/AI/BTS_EnemyStatus.uasset" 112
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/PLayer/BP_PlayerController.uasset" 113
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/PLayer/BP_GameMode.uasset" 114
+"F:/Unreal Projects/Personal/FuseJam2020/Content/HDRis/cannon_1k.uasset" 115
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour.uasset" 116
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour_Inst1.uasset" 117
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour_Inst2.uasset" 118
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 119
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Meshes/Placeholder/SM_Placeholder_Box.uasset" 120
+"F:/Unreal Projects/Personal/FuseJam2020/Content/ParticleSystems/PS_CandleFlame_OWEN.uasset" 121
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 122
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 123
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 124
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 125
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 126
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 127
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 128
+"../../../Engine/Content/BasicShapes/Cone.uasset" 129
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 130
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 131
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 132
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 133
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 134
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 135
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 136
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 137
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 138
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 139
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 140
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 141
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 142
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 143
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 144
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 145
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 146
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 147
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 148
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 149
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 150
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 151
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 152
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 153
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 154
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 155
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 156
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 157
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 158
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 159
+"../../../Engine/Content/EditorResources/S_Note.uasset" 160
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 161
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 162
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 163
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 164
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 165
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 166
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 167
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 168
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 169
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 170
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 171
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 172
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 173
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 174
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 175
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 177
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 178
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 179
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 180
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 181
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 182
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 183
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 184
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 185
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 186
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 187
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 188
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 189
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 190
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 191
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 192
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 194
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 195
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 196
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 197
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 199
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 200
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 201
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 203
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 204
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 205
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 206
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 207
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 208
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 209
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 210
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 211
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 212
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 213
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 214
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 215
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 216
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 217
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 218
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 219
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 220
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 221
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 222
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 223
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 224
+"../../../Engine/Content/EngineResources/Black.uasset" 225
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 226
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 227
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 228
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 229
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 230
+"../../../Engine/Content/EngineSounds/Master.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 233
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 234
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 235
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 236
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 237
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 238
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 239
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 240
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 241
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 242
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 243
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 244
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 245
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 246
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 247
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 248
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 249
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 255
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 256
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 257
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 258
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 259
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 260
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 261
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 262
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 263
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 264
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 265
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 266
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 267
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 268
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 269
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 270
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 271
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 272
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 273
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 274
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 275
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 276
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 277
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 278
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 279
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 280
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 281
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 283
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 284
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 285
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 286
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 287
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 288
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 289
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 290
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 291
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 292
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 293
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 294
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 295
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 296
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Default_BuiltData.uasset" 297
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 298
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Default.umap" 299
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 300
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Gin_Testing.umap" 301
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Drones/FuseJam_TextureDrone.uasset" 302
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/CUE_MainMenu.uasset" 303
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/UI/WBP_MainMenu.uasset" 304
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Menu.umap" 305
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 306
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial.uasset" 307
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/sheet01.uasset" 308
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/candleholder01.uasset" 309
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Candle/BP_Candle_Child.uasset" 310
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Spawner/BP_SpawningVolume.uasset" 311
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Version1_BuiltData.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 315
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 316
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 317
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 318
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 319
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 320
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 321
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 322
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/brick_01.uasset" 323
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_tileable_brick.uasset" 324
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/floor_01.uasset" 325
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_tileable_floor.uasset" 326
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/wall_paper01.uasset" 327
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_tileable_wallpaper.uasset" 328
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_window.uasset" 329
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/sheet_wood01.uasset" 330
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_woodsheet01.uasset" 331
+"../../../Engine/Content/BasicShapes/Cube.uasset" 332
+"../../../Engine/Content/BasicShapes/Plane.uasset" 333
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/floor_01.uasset" 334
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/floor_01_half.uasset" 335
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/plank01.uasset" 336
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/railing_01.uasset" 337
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/railing_end_01.uasset" 338
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/sheet_wood02.uasset" 339
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/material/mastermaterial_woodsheet02.uasset" 340
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/small_wall_01.uasset" 341
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/small_wall_02.uasset" 342
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/stairs_01.uasset" 343
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/Stairs_02.uasset" 344
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/table_01.uasset" 345
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_01.uasset" 346
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_02.uasset" 347
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_03.uasset" 348
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_half_01.uasset" 349
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_pillar_01.uasset" 350
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/meshes/wall_roof.uasset" 351
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/Rain_Ambience.uasset" 352
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_AudioCue1.uasset" 353
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_AudioCue2.uasset" 354
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Audio/SFX_AudioCue3.uasset" 355
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Version1.umap" 356
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Version_DONTUSE.umap" 357
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/art_testcam.uasset" 358
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Art/BP_candleholder01.uasset" 359
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Will_Testing_BuiltData.uasset" 360
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Map_Will_Testing.umap" 361
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_AI_Testing_BuiltData.uasset" 362
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Materials/M_PastelColour_Inst.uasset" 363
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_AI_Testing.umap" 364
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_Gameplay.umap" 365
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/Owen_Maps/Map_Owen_Sanity_Testing.umap" 366
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Blueprints/Directors/BP_Spawner_Director.uasset" 367
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Maps/SubLevels/Map_Sub_Directors.umap" 368
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/levels/Level_lighting_BuiltData.uasset" 369
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/A_LUT_U1_Emulation_SA5.uasset" 370
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/texture/MASTER_LUT_01.uasset" 371
+"F:/Unreal Projects/Personal/FuseJam2020/Content/Art/levels/Level_lighting.umap" 372
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 373
+"../../../Engine/Content/Maps/Entry.umap" 374
